@@ -1,4 +1,4 @@
-# Postest_1
+# Postest_1_A
 Dhea Amalia Putri (2309116037)
 
-Flowchart ini
+Penjelasan
