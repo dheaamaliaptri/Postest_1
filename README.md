@@ -20,13 +20,13 @@ Pada program ini saya juga menggunakan perulangan while pada Input NIM dan Input
 
 # 1. Login Sederhana
 
-   Pertama-tama, pengguna harus memasukkan data diri terlebih dahulu melalui input. Program ini menggunakan loop while pada bagian NIM pengguna, loop ini akan terus berjalan sampai pengguna memasukkan NIM yang valid (hanya angka). Disini saya menggunakan .isdigit() yang berguna untuk memeriksa apakah sebuah string hanya memiliki angka atau tidak, jika pada string itu hanya mengandung angka maka akan bernilai True dan jika memiliki setidaknya satu saja karakter yang bukan merupakan angka maka nilai yang akan dihasilkan adalah False.
+   Pertama-tama, pengguna harus memasukkan data diri terlebih dahulu melalui input. Program ini menggunakan loop while pada bagian NIM pengguna, loop ini akan terus berjalan sampai pengguna memasukkan NIM yang valid (hanya angka). Disini saya menggunakan .isdigit() yang berguna untuk memeriksa apakah sebuah string hanya memiliki angka atau tidak, jika pada string itu hanya mengandung angka maka akan bernilai True dan jika memiliki setidaknya satu saja karakter yang bukan merupakan angka maka nilai yang akan dihasilkan adalah False. Lalu mencetak pesan 'Anda telah berhasil login'
 
    <img width="248" alt="Screenshot 2023-09-26 025350_2" src="https://github.com/dheaamaliaptri/Postest_1/assets/144705099/206a4622-669d-4faf-a464-fd4c458a5790">
 
 # 2. Perhitungan Rumus Pythagoras
 
-   Program ini juga menggunakan loop while untuk meminta pengguna memilih sisi yang ingin dihitung dalam segitiga (alas, sisi tegak, atau sisi miring).
+   Program ini juga menggunakan loop while True untuk menampilkan menu pilihan (alas, sisi tegak, sisi miring, atau keluar) kepada pengguna
 
 Tergantung pilihan dari pengguna, progrm akan meminta pengguna menginputkan panjang sisi-sisi yang ingin diketahui
 
